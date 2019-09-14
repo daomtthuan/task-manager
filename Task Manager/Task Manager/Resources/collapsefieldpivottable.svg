@@ -1,0 +1,8 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg x="0px" y="0px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 32 32" xml:space="preserve" id="Collapse_Field">
+  <rect x="2" y="6" width="12" height="4" rx="0" ry="0" fill="#D11C1C" class="Red" />
+  <g opacity="0.75" class="st0">
+    <path d="M22,6h10v2H22V6z M22,12h10v-2H22V12z M22,20h10v-2H22V20z M22,24h10v-2H22V24z" fill="#727272" opacity="0.75" class="Black" />
+  </g>
+  <path d="M18,2h14v2H18V2z M18,16h14v-2H18V16z M18,28h14v-2H18V28z" fill="#727272" class="Black" />
+</svg>
